@@ -1,0 +1,14 @@
+D:\Programming\C#\Calendar\Calendar\bin\Debug\net8.0\Calendar.exe
+D:\Programming\C#\Calendar\Calendar\bin\Debug\net8.0\Calendar.deps.json
+D:\Programming\C#\Calendar\Calendar\bin\Debug\net8.0\Calendar.runtimeconfig.json
+D:\Programming\C#\Calendar\Calendar\bin\Debug\net8.0\Calendar.dll
+D:\Programming\C#\Calendar\Calendar\bin\Debug\net8.0\Calendar.pdb
+D:\Programming\C#\Calendar\Calendar\obj\Debug\net8.0\Calendar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Calendar\Calendar\obj\Debug\net8.0\Calendar.AssemblyInfoInputs.cache
+D:\Programming\C#\Calendar\Calendar\obj\Debug\net8.0\Calendar.AssemblyInfo.cs
+D:\Programming\C#\Calendar\Calendar\obj\Debug\net8.0\Calendar.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Calendar\Calendar\obj\Debug\net8.0\Calendar.dll
+D:\Programming\C#\Calendar\Calendar\obj\Debug\net8.0\refint\Calendar.dll
+D:\Programming\C#\Calendar\Calendar\obj\Debug\net8.0\Calendar.pdb
+D:\Programming\C#\Calendar\Calendar\obj\Debug\net8.0\Calendar.genruntimeconfig.cache
+D:\Programming\C#\Calendar\Calendar\obj\Debug\net8.0\ref\Calendar.dll
